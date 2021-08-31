@@ -1,0 +1,42 @@
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\bin\Debug\WPF Practice.exe.config
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\bin\Debug\WPF Practice.exe
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\bin\Debug\WPF Practice.pdb
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\bin\Debug\System.Windows.Interactivity.dll
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\WPF Practice.csprojAssemblyReference.cache
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\MainWindow.g.cs
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\App.g.cs
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\WPF Practice_MarkupCompile.cache
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\WPF Practice_MarkupCompile.lref
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\MainWindow.baml
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\WPF Practice.g.resources
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\WPF_Practice.Properties.Resources.resources
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\WPF Practice.csproj.GenerateResource.cache
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\WPF Practice.csproj.CoreCompileInputs.cache
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\WPF Practice.csproj.CopyComplete
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\WPF Practice.exe
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\WPF Practice.pdb
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\Code1.g.cs
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\Code2.g.cs
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\Code3.g.cs
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\Code4.g.cs
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\Code5.g.cs
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\Code6.g.cs
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\Code1.baml
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\Code2.baml
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\Code3.baml
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\Code4.baml
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\Code5.baml
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\Code6.baml
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\Code10.g.cs
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\Code11.g.cs
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\Code7.g.cs
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\Code8.g.cs
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\Code9.g.cs
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\Code12.g.cs
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\Code10.baml
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\Code11.baml
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\Code7.baml
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\Code8.baml
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\Code9.baml
+C:\GitRepository\WPF Practice\WPF Practice\WPF Practice\obj\Debug\Code12.baml
