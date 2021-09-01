@@ -1,5 +1,6 @@
 ﻿using MVVM_Practice.MVVM_Command.View;
 using MVVM_Practice.MVVM_Pattern.View;
+using MVVM_Practice.MVVMInteraction.View;
 using System;
 using System.Collections.Generic;
 using System.Linq;

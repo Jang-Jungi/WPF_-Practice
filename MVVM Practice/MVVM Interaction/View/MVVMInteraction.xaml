@@ -20,56 +20,48 @@
             <Grid Height="40" Background="Red">
                 <i:Interaction.Triggers>
                     <i:EventTrigger EventName="MouseEnter">
-                        <ei:CallMethodAction TargetObject="{Binding}" MethodName="RedGridOver"/>
                     </i:EventTrigger>
                 </i:Interaction.Triggers>
             </Grid>
             <Grid Height="40" Background="Orange">
                 <i:Interaction.Triggers>
                     <i:EventTrigger EventName="MouseEnter">
-                        <ei:CallMethodAction TargetObject="{Binding}" MethodName="OrangeGridOver"/>
                     </i:EventTrigger>
                 </i:Interaction.Triggers>
             </Grid>
             <Grid Height="40" Background="Yellow">
                 <i:Interaction.Triggers>
                     <i:EventTrigger EventName="MouseEnter">
-                        <ei:CallMethodAction TargetObject="{Binding}" MethodName="YellowGridOver"/>
                     </i:EventTrigger>
                 </i:Interaction.Triggers>
             </Grid>
             <Grid Height="40" Background="Green">
                 <i:Interaction.Triggers>
                     <i:EventTrigger EventName="MouseEnter">
-                        <ei:CallMethodAction TargetObject="{Binding}" MethodName="GreenGridOver"/>
                     </i:EventTrigger>
                 </i:Interaction.Triggers>
             </Grid>
             <Grid Height="40" Background="Blue">
                 <i:Interaction.Triggers>
                     <i:EventTrigger EventName="MouseEnter">
-                        <ei:CallMethodAction TargetObject="{Binding}" MethodName="RedGridOver"/>
                     </i:EventTrigger>
                 </i:Interaction.Triggers>
             </Grid>
             <Grid Height="40" Background="Navy">
                 <i:Interaction.Triggers>
                     <i:EventTrigger EventName="MouseEnter">
-                        <ei:CallMethodAction TargetObject="{Binding}" MethodName="NavyGridOver"/>
                     </i:EventTrigger>
                 </i:Interaction.Triggers>
             </Grid>
             <Grid Height="40" Background="Purple">
                 <i:Interaction.Triggers>
                     <i:EventTrigger EventName="MouseEnter">
-                        <ei:CallMethodAction TargetObject="{Binding}" MethodName="PurpleGridOver"/>
                     </i:EventTrigger>
                 </i:Interaction.Triggers>
             </Grid>
             <Button Height="40" Content="Black" FontSize="18">
                 <i:Interaction.Triggers>
                     <i:EventTrigger EventName="Click">
-                        <ei:CallMethodAction TargetObject="{Binding}" MethodName="BlackButtonClick"/>
                     </i:EventTrigger>
                 </i:Interaction.Triggers>
             </Button>

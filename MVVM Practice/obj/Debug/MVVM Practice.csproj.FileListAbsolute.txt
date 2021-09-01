@@ -5,3 +5,4 @@ C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MVVM Practice
 C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MVVM Practice_MarkupCompile.lref
 C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MVVM Pattern\View\MVVMPattern.g.cs
 C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MVVM Command\View\MVVMCommand.g.cs
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MVVM Interaction\View\MVVMInteraction.g.cs

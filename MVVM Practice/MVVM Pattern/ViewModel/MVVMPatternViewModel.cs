@@ -1,5 +1,4 @@
 ﻿using MVVM_Practice.Command;
-using MVVM_Practice.Common;
 using MVVM_Practice.MVVM_Pattern.Model;
 using System;
 using System.Collections.Generic;
