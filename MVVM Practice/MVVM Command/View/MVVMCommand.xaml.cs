@@ -12,23 +12,19 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace WPF_Practice
+namespace MVVM_Practice.MVVM_Command.View
 {
     /// <summary>
-    /// Code12.xaml에 대한 상호 작용 논리
+    /// MVVMCommand.xaml에 대한 상호 작용 논리
     /// </summary>
-    public partial class Code12 : Window
+    public partial class MVVMCommand : Window
     {
-        StudentInfoNotify studentInfoNotify = new StudentInfoNotify();
-        public Code12()
+        MVVMCommandViewModel MVVMCommandVM = new MVVMCommandViewModel();
+        public MVVMCommand()
         {
             InitializeComponent();
-            this.DataContext = studentInfoNotify;
-        }
+            this.DataContext = MVVMCommandVM;
 
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            studentInfoNotify.AddUser();
         }
     }
 }

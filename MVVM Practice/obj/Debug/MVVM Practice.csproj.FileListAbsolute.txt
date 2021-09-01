@@ -1,0 +1,7 @@
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MVVM Practice.csprojAssemblyReference.cache
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MainWindow.g.cs
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\App.g.cs
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MVVM Practice_MarkupCompile.cache
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MVVM Practice_MarkupCompile.lref
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MVVM Pattern\View\MVVMPattern.g.cs
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MVVM Command\View\MVVMCommand.g.cs

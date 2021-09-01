@@ -12,23 +12,17 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-namespace WPF_Practice
+namespace MVVM_Practice.MVVM_Pattern.View
 {
     /// <summary>
-    /// Code12.xaml에 대한 상호 작용 논리
+    /// MVVMPattern.xaml에 대한 상호 작용 논리
     /// </summary>
-    public partial class Code12 : Window
+    public partial class MVVMPattern : Window
     {
-        StudentInfoNotify studentInfoNotify = new StudentInfoNotify();
-        public Code12()
+        public MVVMPattern()
         {
             InitializeComponent();
-            this.DataContext = studentInfoNotify;
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            studentInfoNotify.AddUser();
+            this.DataContext = new MVVMPattern();
         }
     }
 }
