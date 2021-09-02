@@ -1,0 +1,15 @@
+C:\GitRepository\WPF Practice\WPF Practice\MVVM_MahApps_Practice\bin\Debug\MVVM_MahApps_Practice.exe.config
+C:\GitRepository\WPF Practice\WPF Practice\MVVM_MahApps_Practice\bin\Debug\MVVM_MahApps_Practice.exe
+C:\GitRepository\WPF Practice\WPF Practice\MVVM_MahApps_Practice\bin\Debug\MVVM_MahApps_Practice.pdb
+C:\GitRepository\WPF Practice\WPF Practice\MVVM_MahApps_Practice\obj\Debug\MVVM_MahApps_Practice.csprojAssemblyReference.cache
+C:\GitRepository\WPF Practice\WPF Practice\MVVM_MahApps_Practice\obj\Debug\Views\MainView.g.cs
+C:\GitRepository\WPF Practice\WPF Practice\MVVM_MahApps_Practice\obj\Debug\App.g.cs
+C:\GitRepository\WPF Practice\WPF Practice\MVVM_MahApps_Practice\obj\Debug\MVVM_MahApps_Practice_MarkupCompile.cache
+C:\GitRepository\WPF Practice\WPF Practice\MVVM_MahApps_Practice\obj\Debug\MVVM_MahApps_Practice_MarkupCompile.lref
+C:\GitRepository\WPF Practice\WPF Practice\MVVM_MahApps_Practice\obj\Debug\Views\MainView.baml
+C:\GitRepository\WPF Practice\WPF Practice\MVVM_MahApps_Practice\obj\Debug\MVVM_MahApps_Practice.g.resources
+C:\GitRepository\WPF Practice\WPF Practice\MVVM_MahApps_Practice\obj\Debug\MVVM_MahApps_Practice.Properties.Resources.resources
+C:\GitRepository\WPF Practice\WPF Practice\MVVM_MahApps_Practice\obj\Debug\MVVM_MahApps_Practice.csproj.GenerateResource.cache
+C:\GitRepository\WPF Practice\WPF Practice\MVVM_MahApps_Practice\obj\Debug\MVVM_MahApps_Practice.csproj.CoreCompileInputs.cache
+C:\GitRepository\WPF Practice\WPF Practice\MVVM_MahApps_Practice\obj\Debug\MVVM_MahApps_Practice.exe
+C:\GitRepository\WPF Practice\WPF Practice\MVVM_MahApps_Practice\obj\Debug\MVVM_MahApps_Practice.pdb

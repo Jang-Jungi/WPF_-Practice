@@ -6,3 +6,18 @@ C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MVVM Practice
 C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MVVM Pattern\View\MVVMPattern.g.cs
 C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MVVM Command\View\MVVMCommand.g.cs
 C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MVVM Interaction\View\MVVMInteraction.g.cs
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\bin\Debug\MVVM Practice.exe.config
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\bin\Debug\MVVM Practice.exe
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\bin\Debug\MVVM Practice.pdb
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\bin\Debug\System.Windows.Interactivity.dll
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MainWindow.baml
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MVVM Command\View\MVVMCommand.baml
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MVVM Pattern\View\MVVMPattern.baml
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MVVM Interaction\View\MVVMInteraction.baml
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MVVM Practice.g.resources
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MVVM_Practice.Properties.Resources.resources
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MVVM Practice.csproj.GenerateResource.cache
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MVVM Practice.csproj.CoreCompileInputs.cache
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MVVM Practice.csproj.CopyComplete
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MVVM Practice.exe
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MVVM Practice.pdb

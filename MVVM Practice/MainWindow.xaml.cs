@@ -39,10 +39,10 @@ namespace MVVM_Practice
             Window.Show();
         }
 
-        private void Button_Click_2(object sender, RoutedEventArgs e)
-        {
-            MVVMInteraction Window = new MVVMInteraction();
-            Window.Show();
-        }
+        //private void Button_Click_2(object sender, RoutedEventArgs e)
+        //{
+        //    MVVMInteraction Window = new MVVMInteraction();
+        //    Window.Show();
+        //}
     }
 }
