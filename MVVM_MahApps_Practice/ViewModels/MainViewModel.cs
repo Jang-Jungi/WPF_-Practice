@@ -1,9 +1,5 @@
 ﻿using MVVM_MahApps_Practice.Models;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Input;
 
@@ -32,7 +28,7 @@ namespace MVVM_MahApps_Practice.ViewModels
             set
             {
                 inFirstName = value;
-                RaisePropertyChaged("InFirstName");
+                RaisePropertyChanged("InFirstName");
             }
         }
         public string InLastName
@@ -41,7 +37,7 @@ namespace MVVM_MahApps_Practice.ViewModels
             set
             {
                 inLastName = value;
-                RaisePropertyChaged("InLastName");
+                RaisePropertyChanged("InLastName");
             }
         }
         public string InEmail
@@ -50,7 +46,7 @@ namespace MVVM_MahApps_Practice.ViewModels
             set
             {
                 inEmail = value;
-                RaisePropertyChaged("InEmail");
+                RaisePropertyChanged("InEmail");
             }
         }
         public DateTime? InDate
@@ -59,7 +55,7 @@ namespace MVVM_MahApps_Practice.ViewModels
             set
             {
                 inDate = value;
-                RaisePropertyChaged("InDate");
+                RaisePropertyChanged("InDate");
             }
         }
 
@@ -69,7 +65,7 @@ namespace MVVM_MahApps_Practice.ViewModels
             set
             {
                 outFirstName = value;
-                RaisePropertyChaged("OutFirstName");
+                RaisePropertyChanged("OutFirstName");
             }
         }
 
@@ -79,7 +75,7 @@ namespace MVVM_MahApps_Practice.ViewModels
             set
             {
                 outLastName = value;
-                RaisePropertyChaged("OutLastName");
+                RaisePropertyChanged("OutLastName");
             }
         }
         public string OutEmail
@@ -88,7 +84,7 @@ namespace MVVM_MahApps_Practice.ViewModels
             set
             {
                 outEmail = value;
-                RaisePropertyChaged("OutEmail");
+                RaisePropertyChanged("OutEmail");
             }
         }
         public string OutDate
@@ -97,7 +93,7 @@ namespace MVVM_MahApps_Practice.ViewModels
             set
             {
                 outDate = value;
-                RaisePropertyChaged("OutDate");
+                RaisePropertyChanged("OutDate");
             }
         }
         public string OutBirthDay
@@ -106,7 +102,7 @@ namespace MVVM_MahApps_Practice.ViewModels
             set
             {
                 outBirthDay = value;
-                RaisePropertyChaged("OutBirthDay");
+                RaisePropertyChanged("OutBirthDay");
             }
         }
         #endregion

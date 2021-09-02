@@ -11,7 +11,7 @@ namespace MVVM_MahApps_Practice.ViewModels
     {
         public event PropertyChangedEventHandler PropertyChanged;
 
-        public void RaisePropertyChaged(string propertyName)
+        public void RaisePropertyChanged(string propertyName)
         {
             // 속성값 변경 시 이벤트 발생 // null이면 X
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
