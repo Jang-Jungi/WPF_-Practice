@@ -13,7 +13,7 @@
         </Grid.ColumnDefinitions>
         
         <!-- 입력 컨트롤 정의 -->
-        <!--#region ###LEFT GRID SETTING -->
+        <!--#region LEFT GRID SETTING -->
         <Grid Grid.Column="0" Margin="30">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="1*"/>
@@ -32,21 +32,25 @@
             <Label Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Left" Content="이메일 :" />
             <Label Grid.Row="3" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Left" Content="생일 :"   />
 
-            <TextBox    Grid.Row="0" Grid.Column="1" Margin="20" VerticalAlignment="Center" Text="{Binding InFirstName}" />
-            <TextBox    Grid.Row="1" Grid.Column="1" Margin="20" VerticalAlignment="Center" Text="{Binding InLastName}" />
-            <TextBox    Grid.Row="2" Grid.Column="1" Margin="20" VerticalAlignment="Center" Text="{Binding InEmail}" />
-            <DatePicker Grid.Row="3" Grid.Column="1" Margin="20" VerticalAlignment="Center" Text="{Binding InDate, Mode=TwoWay}" />
+            <TextBox    Grid.Row="0" Grid.Column="1" VerticalAlignment="Center" Text="{Binding InFirstName}" />
+            <TextBox    Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" Text="{Binding InLastName}" />
+            <TextBox    Grid.Row="2" Grid.Column="1" VerticalAlignment="Center" Text="{Binding InEmail}" />
+            <DatePicker Grid.Row="3" Grid.Column="1" VerticalAlignment="Center" Text="{Binding InDate, Mode=TwoWay}" />
             <Button Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" Content="입력" Width="150" Height="50"
                     Command="{Binding ClickCommand}" />
         </Grid>
         <!--#endregion-->
 
+        <!--#region RIGHT GRID SETTING -->
         <Grid Grid.Column="1" Background="Gray" Margin="20" >
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="1*"/>
                 <ColumnDefinition Width="2*"/>
             </Grid.ColumnDefinitions>
             <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
                 <RowDefinition/>
                 <RowDefinition/>
                 <RowDefinition/>
@@ -63,12 +67,20 @@
             <Label Grid.Row="3" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Left" Content="이메일 :" />
             <Label Grid.Row="4" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Left" Content="생일 :" />
             <Label Grid.Row="5" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Left" Content="생일 여부 :" />
+            <Label Grid.Row="6" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Left" Content="성인 여부 :" />
+            <Label Grid.Row="7" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Left" Content="별자리 :" />
+            <Label Grid.Row="8" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Left" Content="띠 :" />
 
-            <Label Grid.Row="1" Grid.Column="1" Margin="20" VerticalAlignment="Center" Content="{Binding OutFirstName}" />
-            <Label Grid.Row="2" Grid.Column="1" Margin="20" VerticalAlignment="Center" Content="{Binding OutLastName}" />
-            <Label Grid.Row="3" Grid.Column="1" Margin="20" VerticalAlignment="Center" Content="{Binding OutEmail}" />
-            <Label Grid.Row="4" Grid.Column="1" Margin="20" VerticalAlignment="Center" Content="{Binding OutDate}" />
-            <Label Grid.Row="5" Grid.Column="1" Margin="20" VerticalAlignment="Center" Content="{Binding OutBirthDay}" />
+            <Label Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" Content="{Binding OutFirstName}" />
+            <Label Grid.Row="2" Grid.Column="1" VerticalAlignment="Center" Content="{Binding OutLastName}" />
+            <Label Grid.Row="3" Grid.Column="1" VerticalAlignment="Center" Content="{Binding OutEmail}" />
+            <Label Grid.Row="4" Grid.Column="1" VerticalAlignment="Center" Content="{Binding OutDate}" />
+            <Label Grid.Row="5" Grid.Column="1" VerticalAlignment="Center" Content="{Binding OutBirthDay}" />
+            <Label Grid.Row="6" Grid.Column="1" VerticalAlignment="Center" Content="{Binding OutAdult}" />
+            <Label Grid.Row="7" Grid.Column="1" VerticalAlignment="Center" Content="{Binding OutZodiac}" />
+            <Label Grid.Row="8" Grid.Column="1" VerticalAlignment="Center" Content="{Binding OutChnZodiac}" />
+
         </Grid>
+        <!--#endregion-->
     </Grid>
 </Window>

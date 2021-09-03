@@ -18,6 +18,12 @@ namespace MVVM_MahApps_Practice.ViewModels
         private string outEmail;
         private string outDate; //화면 출력은 string으로
         private string outBirthDay;
+
+        private string outAdult;
+        private string outBirthday;
+        private string outZodiac;
+        private string outChnZodiac;
+
         #endregion
 
         #region ###Property 선언###
@@ -105,6 +111,34 @@ namespace MVVM_MahApps_Practice.ViewModels
                 RaisePropertyChanged("OutBirthDay");
             }
         }
+        public string OutAdult
+        {
+            get => outAdult;
+            set
+            {
+                outAdult = value;
+                RaisePropertyChanged("OutAdult");
+            }
+        }
+
+        public string OutZodiac
+        {
+            get => outZodiac;
+            set
+            {
+                outZodiac = value;
+                RaisePropertyChanged("OutZodiac");
+            }
+        }
+        public string OutChnZodiac
+        {
+            get => outChnZodiac;
+            set
+            {
+                outChnZodiac = value;
+                RaisePropertyChanged("OutChnZodiac");
+            }
+        }
         #endregion
 
         #region ###Command 처리
@@ -115,7 +149,11 @@ namespace MVVM_MahApps_Practice.ViewModels
 
         private bool IsClick()
         {
-            return true; // Validation Check를 쉽고 간단하게 
+            // Validation Check, 하나라도 누락되면 클릭 버튼이 안눌린다.
+            return (!string.IsNullOrEmpty(InFirstName)) && 
+                   (!string.IsNullOrEmpty(InLastName))  &&
+                   (!string.IsNullOrEmpty(InEmail)) &&
+                   (!string.IsNullOrEmpty(InDate.ToString())); 
         }
         private void Click()
         {
@@ -132,6 +170,9 @@ namespace MVVM_MahApps_Practice.ViewModels
                 OutDate      = person.Date.ToString("yyyy-MM-dd");
                 OutBirthDay  = person.IsBirthDay.ToString();
 
+                OutAdult     = person.IsAdult.ToString();
+                OutZodiac    = person.Zodiac;
+                OutChnZodiac = person.ChnZodiac;
             }
             catch (Exception ex)
             {
