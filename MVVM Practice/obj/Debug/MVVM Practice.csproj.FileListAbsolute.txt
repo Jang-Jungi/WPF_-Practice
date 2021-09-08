@@ -21,3 +21,15 @@ C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MVVM Practice
 C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MVVM Practice.csproj.CopyComplete
 C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MVVM Practice.exe
 C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\obj\Debug\MVVM Practice.pdb
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\bin\Debug\Caliburn.Micro.Core.dll
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\bin\Debug\Caliburn.Micro.Platform.dll
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\bin\Debug\Caliburn.Micro.Core.pdb
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\bin\Debug\Caliburn.Micro.Core.xml
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\bin\Debug\Caliburn.Micro.Platform.pdb
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\bin\Debug\Caliburn.Micro.Platform.xml
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\bin\Debug\Caliburn.Micro.Platform.Core.pdb
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\GitRepository\WPF Practice\WPF Practice\MVVM Practice\bin\Debug\Microsoft.Xaml.Behaviors.xml
