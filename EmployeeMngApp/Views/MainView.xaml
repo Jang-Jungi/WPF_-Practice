@@ -23,7 +23,8 @@
                    Style="{StaticResource MahApps.Styles.Label}" />
             <DataGrid x:Name="Employees" Grid.Row="1" Grid.Column="0" 
                       Style="{StaticResource MahApps.Styles.DataGrid.Azure}"
-                      AutoGenerateColumns="False" IsReadOnly="True">
+                      AutoGenerateColumns="False" IsReadOnly="True"
+                      SelectedItem="{Binding SelectedEmployee}">
                 <DataGrid.Columns>
                     <DataGridTextColumn Binding="{Binding Id}"          Header="아이디" />
                     <DataGridTextColumn Binding="{Binding EmpName}"     Header="사원명" />
@@ -32,7 +33,7 @@
                     <DataGridTextColumn Binding="{Binding Destination}" Header="주소" />
                 </DataGrid.Columns>
             </DataGrid>
-            <Button x:Name="GetEmployees" Grid.Row="2" Grid.Column="0" Content="Get List" Width="120" Height="40" 
+            <Button x:Name="GetEmployees" Grid.Row="2" Grid.Column="0" Content="조회" Width="120" Height="40" 
                     ToolTip="직원 리스트 가져오기" Style="{StaticResource MahApps.Styles.Button.Square.Accent}"/>
         </Grid>
         <!--#endregion-->
@@ -90,9 +91,15 @@
                      mah:TextBoxHelper.UseFloatingWatermark="True"
                      mah:TextBoxHelper.ClearTextButton="True" />
 
-            <Button x:Name="SaveEmployee" Grid.Row="5" Grid.Column="0" Content="Save Employee" Width="120" Height="40" 
-                    ToolTip="직원 정보 저장" Style="{StaticResource MahApps.Styles.Button.Square.Accent}"
-                    Grid.ColumnSpan="2" />
+            <StackPanel Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2" Orientation="Horizontal" 
+                        VerticalAlignment="Center" HorizontalAlignment="Center" >
+                <Button x:Name="NewEmployees"  Content="신규" Width="90" Height="40" Margin="5"
+                    ToolTip="직원 정보 추가" Style="{StaticResource MahApps.Styles.Button}" />
+                <Button x:Name="SaveEmployees"  Content="저장" Width="90" Height="40"  Margin="5"
+                    ToolTip="직원 정보 저장" Style="{StaticResource MahApps.Styles.Button.Square.Accent}"/>
+                <Button x:Name="DelEmployees"  Content="삭제" Width="90" Height="40"  Margin="5"
+                    ToolTip="직원 정보 삭제" Style="{StaticResource MahApps.Styles.Button.Dialogs.AccentHighlight}"/>
+            </StackPanel>
         </Grid>
         <!--#endregion-->
     </Grid>
