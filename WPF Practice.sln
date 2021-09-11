@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfCaliburnPageApp", "WpfCa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeMngApp", "EmployeeMngApp\EmployeeMngApp.csproj", "{72B394DB-AB9A-4D2E-AF14-A6A1F0F54512}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfGraph", "WpfGraph\WpfGraph.csproj", "{A497CD26-F741-4D1D-AFAF-F6397D70FFF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{72B394DB-AB9A-4D2E-AF14-A6A1F0F54512}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72B394DB-AB9A-4D2E-AF14-A6A1F0F54512}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72B394DB-AB9A-4D2E-AF14-A6A1F0F54512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A497CD26-F741-4D1D-AFAF-F6397D70FFF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A497CD26-F741-4D1D-AFAF-F6397D70FFF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A497CD26-F741-4D1D-AFAF-F6397D70FFF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A497CD26-F741-4D1D-AFAF-F6397D70FFF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

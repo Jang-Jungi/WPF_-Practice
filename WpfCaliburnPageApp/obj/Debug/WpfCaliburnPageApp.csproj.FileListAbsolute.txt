@@ -1,4 +1,3 @@
-C:\GitRepository\WPF Practice\WPF Practice\WpfCaliburnPageApp\obj\Debug\WpfCaliburnPageApp.csprojAssemblyReference.cache
 C:\GitRepository\WPF Practice\WPF Practice\WpfCaliburnPageApp\obj\Debug\WpfCaliburnPageApp_MarkupCompile.cache
 C:\GitRepository\WPF Practice\WPF Practice\WpfCaliburnPageApp\obj\Debug\WpfCaliburnPageApp_MarkupCompile.lref
 C:\GitRepository\WPF Practice\WPF Practice\WpfCaliburnPageApp\obj\Debug\Views\MainView.g.cs
